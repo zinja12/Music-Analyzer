@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="musicg-1.4.0.1.jar"/>
+	<classpathentry kind="lib" path="guava-18.0.jar"/>
+	<classpathentry kind="lib" path="spotify-web-api-java-1.5.0.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="spotify-web-api-java-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="org.apache.commons.codec-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="spotify-web-api-java-1.4.21.jar"/>
+	<classpathentry kind="lib" path="spotify-web-api-java-1.5.0-javadoc (1).jar"/>
+	<classpathentry kind="lib" path="JLibSpotify.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
